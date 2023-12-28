@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $sloodleconfig = new SloodleObjectConfig();
 $sloodleconfig->primname   = 'SLOODLE LoginZone';
 $sloodleconfig->group      = 'registration';

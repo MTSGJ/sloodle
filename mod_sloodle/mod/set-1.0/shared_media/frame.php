@@ -1,4 +1,4 @@
-﻿<html>
+<html>
 <head>
 <title>SLOODLE Rezzer Configuration</title>
 <script language="JavaScript">

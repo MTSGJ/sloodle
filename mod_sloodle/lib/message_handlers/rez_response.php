@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 require_once(SLOODLED_BASE_DIR.'/init.php');
 
 if ( !defined('SLOODLE_MESSAGE_QUEUE_TASK') || !SLOODLE_MESSAGE_QUEUE_TASK) {

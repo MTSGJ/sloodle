@@ -1,4 +1,4 @@
-﻿<?php 
+<?php 
 /* db.lib
 Edmund Edgar, 2010-06-18
 Sloodle database compatibility wrappers

@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
 * Sloodle choice linker (for Sloodle 0.3).
 * Allows an SL object to access a Moodle choice instance.

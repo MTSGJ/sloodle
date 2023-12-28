@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /*
 This is a base class for email processors.
 It needs to be extended by a specific moodle importer, stored in the moodle_importers directory.

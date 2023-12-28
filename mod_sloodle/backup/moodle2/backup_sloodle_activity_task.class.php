@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 require_once($CFG->dirroot . '/mod/sloodle/backup/moodle2/backup_sloodle_stepslib.php'); 
 require_once($CFG->dirroot . '/mod/sloodle/backup/moodle2/backup_sloodle_settingslib.php'); 
  

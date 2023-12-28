@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 // This file is part of the Sloodle project (www.sloodle.org)
 /**
 * Defines a structure to store information about an active object

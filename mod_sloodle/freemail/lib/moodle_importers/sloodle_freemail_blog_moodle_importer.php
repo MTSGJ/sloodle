@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /*
 Importer for getting the results of a message into a blog.
 */

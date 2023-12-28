@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
 * Defines a library class for managing SLOODLE Plugins.
 * It is constructed and used through a SloodleSession object.

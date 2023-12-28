@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $sloodleconfig = new SloodleObjectConfig();
 $sloodleconfig->primname   = 'Shark';
 $sloodleconfig->group      = 'misc';

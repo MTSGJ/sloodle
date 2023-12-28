@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $sloodleconfig = new SloodleObjectConfig();
 $sloodleconfig->primname   = 'SLOODLE Password Reset';
 $sloodleconfig->group      = 'registration';

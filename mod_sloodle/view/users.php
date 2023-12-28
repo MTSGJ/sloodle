@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
 * Defines a base class for viewing information about SLOODLE users (avatars).
 * Class is inherited from the base view class.

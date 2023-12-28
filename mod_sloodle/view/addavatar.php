@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
 * Defines a class to render a page for adding avatar details into SLOODLE manually.
 * Class is inherited from the base view class.

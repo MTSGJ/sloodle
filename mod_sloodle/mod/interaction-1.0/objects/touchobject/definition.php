@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $sloodleconfig = new SloodleObjectConfig();
 $sloodleconfig->primname   = 'SLOODLE Touch Object';
 $sloodleconfig->group      = 'activity';

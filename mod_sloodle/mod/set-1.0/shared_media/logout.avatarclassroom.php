@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 if ( !defined('SLOODLE_SHARED_MEDIA_LOGOUT_INCLUDE') || (SLOODLE_SHARED_MEDIA_LOGOUT_INCLUDE == '') ) {
         exit;
 }

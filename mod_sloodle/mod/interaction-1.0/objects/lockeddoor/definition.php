@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $sloodleconfig = new SloodleObjectConfig();
 $sloodleconfig->primname   = 'Locked Door';
 $sloodleconfig->group      = 'activity';

@@ -1,4 +1,4 @@
-﻿<?php
+<?php
     /**
     * Sloodle distributor linker (for Sloodle 0.3).
     * Allows a Sloodle Vending Machine to update its inventory and report / get permission to give objects.

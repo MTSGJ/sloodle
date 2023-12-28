@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 
     /**
     * This script contains all the functionality allowing SLOODLE data in Moodle to be backed-up.

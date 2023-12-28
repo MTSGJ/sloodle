@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /*
 This file has been replaced by the following files: 
  init.php - core settings that should be changed on upgrades.

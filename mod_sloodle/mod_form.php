@@ -1,4 +1,4 @@
-﻿<?php
+<?php
     /**
     * Sloodle module add/edit form.
     * This script defines a form used to add/edit instances of the Sloodle module.

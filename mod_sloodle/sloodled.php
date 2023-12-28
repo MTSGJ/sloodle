@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /*
 sloodled.php, Edmund Edgar, 2012-04
 Copyright contributors, licensed under the same license as the rest of SLOODLE.

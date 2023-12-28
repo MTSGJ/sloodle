@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 
 $string['countobjects'] = '{$a} objects';
 $string['default'] = 'Enabled by default';

@@ -1,4 +1,4 @@
-﻿<?php
+<?php
     /**
     * Sloodle password reset linker.
     * Allows users in-world to request a password reset.

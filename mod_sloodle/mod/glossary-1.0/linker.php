@@ -1,4 +1,4 @@
-﻿<?php
+<?php
     /**
     * Sloodle glossary linker (for Sloodle 0.3).
     * Allows a Sloodle MetaGloss to search a Moodle glossary.

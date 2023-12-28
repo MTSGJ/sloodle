@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 // This file is part of the Sloodle project (www.sloodle.org) and is released under the GNU GPL v3.
 
 /**

@@ -1,4 +1,4 @@
-﻿<?php 
+<?php 
 function print_home_javascript() {
 ?>
 <html>

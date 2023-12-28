@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
 * Defines a base class for viewing sub-types of the SLOODLE module, such as the Controller and the Distributor.
 * Class is inherited from the base view class, and should be further derived for module-specific functionality.

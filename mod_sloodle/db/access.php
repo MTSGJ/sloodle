@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 
 /**
 * Moodle capability definitions for the Sloodle module.

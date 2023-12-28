@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 
 // This selection box determines whether or not auto-registration is allowed on the site
  

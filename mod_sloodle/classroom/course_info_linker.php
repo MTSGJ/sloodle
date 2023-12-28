@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
 * Course information linker.
 * Allows objects in-world to query for information about a particular course.

@@ -1,4 +1,4 @@
-﻿<?php
+<?php
     /**
     * Sloodle demo linker (for Sloodle 0.4).
     * Allows a demo object to link to Moodle.

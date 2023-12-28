@@ -1,4 +1,4 @@
-﻿<?php
+<?php
  /**
 * Freemail v1.1 with SL patch
 *

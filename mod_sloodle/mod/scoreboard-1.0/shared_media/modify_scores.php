@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 // This script is part of the Sloodle project
 // Created for Avatar Classroom, with the intention of eventually being ported back to regular Sloodle.
 // Some assumptions that are true for Avatar Classroom won't be true for arbitrary Moodle sites.

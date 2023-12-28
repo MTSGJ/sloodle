@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $sloodleconfig = new SloodleObjectConfig();
 $sloodleconfig->primname   = 'SLOODLE 1.1 Vending Machine';
 $sloodleconfig->module     = 'sloodle';

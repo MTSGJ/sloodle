@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $sloodleconfig = new SloodleObjectConfig();
 $sloodleconfig->primname   = 'Liquid (Yellow)';
 $sloodleconfig->group      = 'activity';

@@ -1,4 +1,4 @@
-﻿<?php
+<?php
     /**
     * Sloodle Presenter linker.
     * Allows a Sloodle Presenter object in-world to request a list of entries for a presentation.

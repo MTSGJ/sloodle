@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 // This file is part of the Sloodle project (www.sloodle.org)
 /**
 * Defines a class to render a view of SLOODLE course information.

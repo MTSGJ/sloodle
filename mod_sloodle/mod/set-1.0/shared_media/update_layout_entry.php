@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 // Simulates an ajax object-rezzing request
 
 /** Grab the Sloodle/Moodle configuration. */

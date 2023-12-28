@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 
 require_once($CFG->dirroot.'/mod/sloodle/init.php');
 

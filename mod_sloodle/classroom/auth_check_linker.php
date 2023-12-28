@@ -1,4 +1,4 @@
-﻿<?php
+<?php
     /**
     * Sloodle object authorization check linker.
     * Allows authorised objects in SL to check whether or not a specified user can authorize objects.

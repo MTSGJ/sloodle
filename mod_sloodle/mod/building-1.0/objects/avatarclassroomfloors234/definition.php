@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $sloodleconfig = new SloodleObjectConfig();
 $sloodleconfig->primname   = 'Avatar Classroom Extra Floors';
 $sloodleconfig->group      = 'misc';

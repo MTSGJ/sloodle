@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /*
 This is a base class for email processors.
 It needs to be extended by a specific email processor, stored in the email_processors directory.

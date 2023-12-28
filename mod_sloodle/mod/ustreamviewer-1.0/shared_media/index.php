@@ -1,4 +1,4 @@
-﻿<?php
+<?php
     // This script is part of the Sloodle project
 
     /*

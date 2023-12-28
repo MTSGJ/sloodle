@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
 * Sloodle avatar registration page.
 *

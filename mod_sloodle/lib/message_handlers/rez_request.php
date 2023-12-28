@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 
 if ( !defined('SLOODLE_MESSAGE_QUEUE_TASK') || !SLOODLE_MESSAGE_QUEUE_TASK) {
     echo 'This task should be run by the sloodled daemon';

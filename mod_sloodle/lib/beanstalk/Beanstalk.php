@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * beanstalk: A minimalistic PHP beanstalk client.
  *

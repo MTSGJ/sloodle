@@ -1,4 +1,4 @@
-﻿<?php
+<?php
     /**
     * Sloodle chat linker (for Sloodle 0.3).
     * Allows a Sloodle WebIntercom tool link into a Moodle chatroom.

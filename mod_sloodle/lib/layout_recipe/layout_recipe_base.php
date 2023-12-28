@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /*
 Abstract base class for an object which generates a layout for your course.
 */

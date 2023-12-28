@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
 * Choice 1.0 configuration form.
 *

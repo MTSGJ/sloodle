@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /*
 * Sloodle email processfor for the freemail mod (for Sloodle 0.4).
 * Various functions to extract info from sl postcards

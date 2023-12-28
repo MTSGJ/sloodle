@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 // Only used for legacy purposes - you configure the current one with its own screen
 $sloodleconfig = new SloodleObjectConfig();
 $sloodleconfig->primname   = 'SLOODLE Set';

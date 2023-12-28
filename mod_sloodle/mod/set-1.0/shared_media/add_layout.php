@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /** Grab the Sloodle/Moodle configuration. */
 require_once('../../../init.php');
 /** Include the Sloodle PHP API. */

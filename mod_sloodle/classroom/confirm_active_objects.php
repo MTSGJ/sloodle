@@ -1,4 +1,4 @@
-﻿<?php
+<?php
     /**
     * Sloodle active object confirm.
     * Allows the rezzer to check for any objects that are no longer there, because they have been manually derezzed.

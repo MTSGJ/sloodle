@@ -1,4 +1,4 @@
-﻿<?php
+<?php
     /**
     * Sloodle quiz linker (for Sloodle 0.3).
     * Allows in-world objects to interact with Moodle quizzes.

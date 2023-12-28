@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * SLOODLE version of:
  * Back-end code for handling data about quizzes and the current user's attempt.

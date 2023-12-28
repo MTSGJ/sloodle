@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /*
 Functions used for compatibility where the Moodle APIs change.
 We should probably move db.php in here too.

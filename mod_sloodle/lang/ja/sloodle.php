@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
 * This is the English language file for SLOODLE.
 * It is included automatically by the Moodle framework.

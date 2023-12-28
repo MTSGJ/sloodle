@@ -1,4 +1,4 @@
-﻿<?php
+<?php
     /**
     * Sloodle active object ping.
     * Allows active objects to notify the Sloodle installation that they are still 'alive'.

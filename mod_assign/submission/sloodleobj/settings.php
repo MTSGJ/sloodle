@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 
 $settings->add(new admin_setting_configcheckbox('assignsubmission_sloodleobj/default',
                    new lang_string('default', 'assignsubmission_sloodleobj'),

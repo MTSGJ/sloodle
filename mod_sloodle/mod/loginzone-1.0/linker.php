@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
 * LoginZone linker script.
 *

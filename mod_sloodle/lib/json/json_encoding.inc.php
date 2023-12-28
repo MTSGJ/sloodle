@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 // Ensures the json_encode and json_decode functions are available.
 // Only necessary for PHP4. In PHP5 they're already there.
 // Uses the JSON.php file from PEAR.

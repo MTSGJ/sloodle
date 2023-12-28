@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $sloodleconfig = new SloodleObjectConfig();
 $sloodleconfig->primname   = 'Multi User Quiz 2';
 $sloodleconfig->module     = 'quiz';

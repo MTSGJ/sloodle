@@ -1,4 +1,4 @@
-﻿<?php
+<?php
     /**
     * Sloodle object authorization linker.
     * Allows authorised objects in SL to delegate authorisation to other objects,

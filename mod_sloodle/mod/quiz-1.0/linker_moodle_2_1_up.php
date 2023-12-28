@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
 * Quiz-engine-specific part of the SLOODLE quiz linker.
 * For Moodle 2.1 or higher

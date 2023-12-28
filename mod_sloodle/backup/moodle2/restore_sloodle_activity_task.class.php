@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 require_once($CFG->dirroot . '/mod/sloodle/backup/moodle2/restore_sloodle_stepslib.php');
 /**
  * sloodle restore task that provides all the settings and steps to perform one

@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
 * Defines a base class for views of SLOODLE modules and features.
 * Module-/feature-specific functionality should be specified by inheriting and overidding specific functions.

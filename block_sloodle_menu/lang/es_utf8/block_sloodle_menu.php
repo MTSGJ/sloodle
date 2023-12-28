@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
 * This is the Spanish language file for the Sloodle menu block.
 * It is included automatically by the Moodle framework.

@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 // Simulates an ajax object-rezzing request
 
 require_once '../../../lib/json/json_encoding.inc.php';

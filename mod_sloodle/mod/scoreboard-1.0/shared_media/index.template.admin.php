@@ -1,4 +1,4 @@
-﻿<?php 
+<?php 
 
 //require_once(SLOODLE_LIBROOT . '/krumo/class.krumo.php');
 function print_html_top($loadfrom = '', $is_logged_in) 

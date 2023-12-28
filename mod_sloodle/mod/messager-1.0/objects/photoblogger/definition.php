@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /*
 This object sends an instant message to a user when asked to do so by the server.
 */

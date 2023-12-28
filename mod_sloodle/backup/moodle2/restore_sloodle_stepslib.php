@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Structure step to restore one choice activity
 */

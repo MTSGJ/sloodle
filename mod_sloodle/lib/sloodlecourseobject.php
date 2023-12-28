@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
 * sloodlecourseobject provides basic functionality for accessing information about
 * the students, including a student list, and avatar list

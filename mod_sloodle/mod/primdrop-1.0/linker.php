@@ -1,4 +1,4 @@
-﻿<?php
+<?php
     /**
     * Sloodle PrimDrop linker (for Sloodle 0.3).
     * Allows a Sloodle PrimDrop object to interact with a 'Sloodle Object' assignment type.

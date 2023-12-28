@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
 * Interface script to view SLOODLE information about a particular SLOODLE module sub-type.
 * Optional parameter '_type' should identify what type of resource is being viewed, e.g. 'module' (default), 'course', 'user', 'users'. This determines which script is loaded.

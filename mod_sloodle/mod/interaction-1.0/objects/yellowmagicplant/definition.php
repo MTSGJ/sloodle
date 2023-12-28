@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $sloodleconfig = new SloodleObjectConfig();
 $sloodleconfig->primname   = 'Magic Plant (Yellow)';
 $sloodleconfig->group      = 'activity';

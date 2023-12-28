@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
 * Defines a class for viewing the SLOODLE Second Life Tracker module in Moodle.
 * Derived from the module view base class.
